@@ -11,3 +11,7 @@ We are going to use the Minimax algorithm in maximizing the best moves for the r
 <p align="center">
     <img src="Misc/a.jpg" width="220" height="240" />
 </p>
+
+<p align="center">
+    <img src="Misc/poster.PNG" />
+</p>

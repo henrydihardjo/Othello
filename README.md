@@ -13,5 +13,5 @@ We are going to use the Minimax algorithm in maximizing the best moves for the r
 </p>
 
 <p align="center">
-    <img src="Misc/poster.PNG" />
+    <img src="Misc/0BB14743-5613-4E91-A081-EAF239E51D71.png" />
 </p>
